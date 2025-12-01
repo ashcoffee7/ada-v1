@@ -1,0 +1,32 @@
+[
+  {
+    "username": "ashroice",
+    "password": "Goldilocks123!",
+    "is-admin": "true"
+  },
+  {
+    "username": "flower",
+    "password": "capra2019",
+    "is-admin": "false"
+  },
+  {
+    "username": "ashlynroice",
+    "password": "Gotly123!",
+    "email": "aroice@caltech.edu"
+  },
+  {
+    "username": "123",
+    "password": "123",
+    "email": "ashlyn.roice@gmail.com"
+  },
+  {
+    "username": "rjoseph",
+    "password": "Coldendoogle123!",
+    "email": "rjoseph@gmail.com"
+  },
+  {
+    "username": "foo bar",
+    "password": "Goldie123!",
+    "email": "asoiasd@mail.com"
+  }
+]

@@ -1,0 +1,97 @@
+/**
+Name: Ashlyn Roice
+CS132 Spring 2025
+Date: June 13, 2025
+Description: This is the favorites.css page for my web project Ada. It styles each of the 
+information cards for each favorited center in a retro yet calming fashion.
+*/
+
+/* favorite cards */
+h1 {
+    font-weight: bold;
+    font-family: 'Inter', 'sans-serif';
+    text-align: center;
+    color: darkslategrey;
+    font-size: 3.5em;
+}
+
+#favorite-cards {
+    flex-direction: row;
+    align-items: center;
+    justify-content: center;
+    gap: 30px;
+    flex-wrap: wrap;
+    padding: 0px 20px 40px;
+
+}
+
+.favorited-card {
+    flex: 1 1 350px;
+    max-width: 400px;
+    background: white;
+    padding: 20px;
+    box-shadow: 0 4px 12px rgba(0, 0, 0, 0.4);
+    flex-direction: column;
+    align-items: center;
+    border-radius: 20px;
+    border: none;
+    font-family: "Inter", "sans serif";
+}   
+
+.favorited-card img {
+    width: 200px;
+    height: 200px;
+    border-radius: 10px;
+    margin-top: 10px;
+}
+
+.favorited-card p{
+    margin: 10px 0px;
+    font-size: 2em;
+    font-weight: 200px;
+}
+
+/* ask about this one - can't use > .nth-child(2) */
+.favorited-card .center-name {
+    font-weight: bold;
+    font-size: 2em;
+    color: darkslategray;
+    margin: 0px;
+    line-height: 1;
+}
+
+.favorited-name:hover {
+    color: darkblue;
+}
+
+.center-header {
+    flex-direction: row;
+    justify-content: space-between;
+    gap: 10px;
+    padding: 0px 10px;
+    align-items: center;
+    margin-top: 10px;
+}
+
+.center-header button {
+    background-color: darkblue;
+    border: none;
+    border-radius: 10px;
+    color: white;
+    font-size: 1.5em;
+    padding: 0px 10px;
+    height: 40px;
+    margin-top: 0px;
+}
+
+.center-header button.favorited {
+    background-color: grey;
+}
+
+.center-header button:hover {
+    background-color: darkslategrey;
+}
+
+#favorite-cards, .center-header, .favorited-card {
+    display: flex;
+}

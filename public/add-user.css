@@ -1,0 +1,57 @@
+/**
+Name: Ashlyn Roice
+CS132 Spring 2025
+Date: June 13, 2025
+Description: This is the add-center.css page for my web project Ada. This dictates the styling for 
+the form to add a center, for admins.
+*/
+body {
+    font-family: 'Inter', 'sans serif';
+}
+
+#add-form, .form-unit {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
+
+.form-unit, .submit-center {
+    padding: 20px 40px;
+}
+
+#add-form {
+    background: white;
+    border-radius: 15px;
+    font-size: 1.5em;
+    margin-bottom: 35px;
+}
+
+.form-unit {
+    width: 75%;
+    border-radius: 20px;
+    font-family: 'Inter', 'san serif';
+}
+
+.form-header {
+    font-weight: bold;
+    color: darkslategrey;
+    margin-top: 20px;
+    font-size: 3.5em;
+}
+
+.form-unit input[type="text"] {
+    padding: 8px 12px;
+    border-radius: 8px;
+    border: 1px solid black;
+    width: 1000px;
+}
+
+.submit-center {
+    color: white;
+    background-color: darkblue;
+    margin-bottom: 20px;
+    border-radius: 10px;
+    border: none;
+    font-size: 1.0em;
+}
+

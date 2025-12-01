@@ -1,0 +1,13 @@
+/**
+Name: Ashlyn Roice
+CS132 Spring 2026
+Date: June 13, 2025
+Description: This page styles the messaging for the logout.html page.
+*/
+
+#success, #err {
+    font-size: 3.5em;
+    font-family: 'Inter', 'sans-serif';
+    font-weight: bold;
+    color: darkslategrey;
+}

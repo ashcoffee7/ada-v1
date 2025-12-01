@@ -1,0 +1,79 @@
+/**
+Name: Ashlyn Roice
+CS132 Spring 2025
+Date: June 11, 2025
+Description: This is the entry.css file for my web project Ada. It styles the cards holding 
+information for each individual center in Ada's database.
+*/
+
+body {
+    font-family: 'Inter', 'sans-serif';
+}
+
+#center-cards {
+    flex-direction: row;
+    align-items: center;
+    justify-content: center;
+    padding: 20px 20px;
+    gap: 50px;
+    width: 1000px;
+    background-color: white;
+    margin: 10px auto;
+    vertical-align: auto;
+    border-radius: 20px;
+    font-size: 1.5em;
+}
+
+#center-cards .fake-heading {
+    font-weight: bold;
+    color: darkslategrey;
+}
+
+#center-cards img {
+    border-radius: 20px;
+    width: 500px;
+    height: 500px;
+}
+
+.info-cards {
+    padding-bottom: 20px;
+    justify-content: center;
+    align-items: center;
+}
+
+.separator {
+    margin-bottom: 20px;
+}
+
+.separator ul{
+    max-width: 600px;
+    flex-wrap: wrap;
+    gap: 20px;
+    margin: 0px;
+    padding-left: 0px;
+    list-style-type: none;
+    font-size: 1.5em;
+}
+
+.separator ul li {
+    background: skyblue;
+    border-radius: 5px;
+    display: inline-block;
+    padding: 4px 6px;
+}
+
+.contact-for-more {
+    color: red;
+    font-weight: bold;
+    background-color: white;
+}
+
+.info-card button {
+    background-color: darkblue;
+    border-radius: 10px;
+    color: white;
+}
+
+#center-cards, .info-cards, .separator ul {
+    display: flex;
+}

@@ -1,0 +1,107 @@
+/**
+Name: Ashlyn Roice
+CS132 Spring 2025
+Date: June 12, 2025
+Description: This is the contact.css page for my web project Ada. This dictates the styling for the 
+FAQ and contact form.
+*/
+
+body {
+    font-family: 'Inter', 'sans serif';
+}
+
+.form-unit {
+    border-radius: 20px;
+    font-family: 'Inter', 'san serif';
+    padding: 20px 40px;
+}
+
+.question-header {
+    font-weight: bold;
+    color: darkslategrey;
+    font-size: 3em;
+}
+
+#question-form input {
+    padding: 8px 12px;
+    border-radius: 8px;
+    border: 1px solid black;
+    max-height: 20px;
+    display: inline-block;
+    margin-bottom: 30px;
+}
+
+#question-form input[type="textare"] {
+    width: 100%;
+    padding-bottom: 50px;
+}
+
+label {
+    display: inline-block;
+}
+
+#question-form input[type="text"], #question-form input[type="email"] {
+    margin-top: 20px;
+}
+
+.submit-question, .submit-admin {
+    padding: 10px 20px;
+    color: white;
+    background-color: darkblue;
+    margin-bottom: 20px;
+    border-radius: 10px;
+    border: none;
+}
+
+#contact-questions > div {
+    width: 50%;
+    margin: 0 auto 20px;
+
+}
+
+.question-card {
+    background: darkblue;
+    color: white;
+    font-weight: bold;
+    margin: 0px;
+    padding: 20px 40px;
+}
+
+.answer-card {
+    padding: 20px 40px;
+    margin: 0px;
+}
+
+#admin-form input {
+    padding: 8px 10px;
+    border-radius: 8px;
+    border: 1px solid black;
+    max-height: 20px;
+    margin-bottom: 30px;
+}
+
+#admin-form input[type="text"], .form-unit input[type="email"] {
+    margin-top: 20px;
+}
+
+#admin-form, #question-form {
+    width: 75%;
+    border-radius: 15px;
+    margin-bottom: 35px;
+    font-size: 1.5em;
+}
+
+#admin-form, #question-form, .answer-card {
+    background: white;
+}
+
+#admin-form, #question-form, .form-unit {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+}
+
+.form-unit, .question-card {
+    padding: 20px 40px;
+}

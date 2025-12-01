@@ -1,0 +1,264 @@
+[
+    {
+        "name": "FPA Women's Health (Downtown LA)",
+        "address": "601 Westmoreland Ave, Los Angeles, CA 90005",
+        "services": [
+          "Birth control",
+          "IUD placement",
+          "Abortion services",
+          "STI testing",
+          "Primary care",
+          "Trauma-informed care"
+        ],
+        "insurances": [
+          "Advantage Health",
+          "Aetna HMO",
+          "Aetna PPO",
+          "Aids Healthcare Foundation",
+          "AIM Mainstream Network",
+          "Alameda Alliance",
+          "Alameda Health System",
+          "Allcare IPA",
+          "Alliance Health System - MM",
+          "Allied Healthcare",
+          "Angeles IPA",
+          "Apple Care Med Grp-Downey",
+          "Apple Care Med Grp-St Francis",
+          "Asian Community Medical",
+          "Associated Hispanic Physicians",
+          "Bakersfield Family Medical Group",
+          "Blue Cross Of California",
+          "Blue Shield",
+          "Brookshire IPA",
+          "Calcare Medical Group",
+          "Cedars-Sinai Health Association",
+          "Cigna",
+          "Community Health Center Network",
+          "Community Health Group",
+          "Desert Valley Medical Group",
+          "Diamond Bar Medical Group",
+          "Dignity Health Medical Group",
+          "ELIGIBILITY SCREEN",
+          "Employee Health Systems",
+          "Family Choice Medical Group",
+          "Family Health Alliance",
+          "Gateway Medical Group",
+          "Genesis Healthcare Inc",
+          "Glendale Health Center",
+          "Global Care Medical Group",
+          "Gold Coast Health",
+          "Good Samaritan Medical Group",
+          "Greater LA Healthcare",
+          "Harbor Ucla Medical Center",
+          "Health Care LA",
+          "Heritage IPA",
+          "Kaiser",
+          "LA Care Health Plan",
+          "Medi-Cal",
+          "Medical Mutual",
+          "Pacific Healthcare IPA",
+          "Pioneer",
+          "San Bernardino Medical Group",
+          "Santa Clara Family Health Plan",
+          "Sutter Connect",
+          "United Healthcare"
+        ],
+        "image-address": "https://s3-media0.fl.yelpcdn.com/bphoto/kPlCoCLxUrZ68lv00Vq3CA/348s.jpg"
+    },      
+    {
+      "name": "Los Angeles LGBT Center",
+      "address": "1625 N Schrader Blvd, Los Angeles, CA 90028",
+      "services": ["Primary care", "Gynecological health", "Mental health", "Transgender care", "Pharmacy"],
+      "insurances": ["Medi-Cal", "Medicare", "Private insurance", "Sliding scale", 
+      "Call for more information"],
+      "image-address": "https://lalgbtcenter.org/app/uploads/2023/07/LGBT-Center_AMRC-September-2019_2560x1140.jpg"
+    },
+    {
+      "name": "Tia",
+      "address": "8500 W Sunset Blvd Suite 103, West Hollywood, CA 90069",
+      "services": ["Primary care", "Gynecological health", "Sexual health", "Mental health", "Acupuncture", "Skin care"],
+      "insurances": ["Aetna", "Anthem", "Blue Shield of California", "Cigna", "UnitedHealthcare", "Call for more information"],
+      "image-address": "https://cdn.sanity.io/images/8qqycr4y/production/9eab674d81a53e2249b1f4e7c01932efef86cda6-2000x1400.jpg?w=768&h=538&fit=crop"
+    },
+    {
+        "name": "St. John's Community Health - Women's Clinic",
+        "address": "808 W 58th St, Los Angeles, CA 90044",
+        "services": ["Gynecological health", "Obstetrics"],
+        "insurances": [
+          "Aetna Commercial",
+          "Anthem Blue Cross",
+          "Anthem Blue Cross Covered CA (HMO)",
+          "Anthem Blue Cross Commercial",
+          "Anthem Blue Cross POS",
+          "Anthem Blue Cross Medi-Cal",
+          "Anthem Blue Cross Medicare Advantage",
+          "Blue Shield",
+          "Blue Shield Commercial",
+          "Blue Shield POS",
+          "Blue Shield of California Promise Health Plan",
+          "Blue Shield Promise Advantage",
+          "Blue Shield Promise Total Duals",
+          "Blue Shield Promise Medi-Cal",
+          "Blue Shield Promise Cal MediConnect Plan",
+          "Brand New Day",
+          "Brand New Day Medicare Advantage/DSNP",
+          "SCAN",
+          "SCAN Medicare Advantage/DSNP",
+          "Cigna",
+          "Cigna Commercial",
+          "Cigna POS",
+          "Health Net",
+          "Health Net Covered CA (HMO/FFS)",
+          "Health Net Commercial",
+          "Health Net POS",
+          "Health Net Medi-Cal",
+          "Health Net Cal MediConnect",
+          "Health Net Medicare Advantage",
+          "LA Care",
+          "LA Care Covered CA (HMO)",
+          "LA Care Medi-Cal",
+          "LA Care Cal MediConnect",
+          "Molina Healthcare",
+          "Molina Medi-Cal",
+          "Molina Medicare Advantage",
+          "Molina Cal MediConnect",
+          "Molina Covered CA (HMO)",
+          "United Healthcare",
+          "United Commercial",
+          "United Medicare Advantage"
+        ],
+        "image-address": "https://southsidecoalition.org/wp-content/uploads/2019/12/header_stjohns-1024x576.jpg"
+      },      
+    {
+      "name": "Saban Community Clinic",
+      "address": "8405 Beverly Blvd, Los Angeles, CA 90048",
+      "services": ["Gynecological health", "Pregnancy to menopause care"],
+      "insurances": ["Medi-Cal", "Covered California", "Sliding scale", "Self-Pay"],
+      "image-address": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=JCiNdG5adOuHeFbt4RxPsA&cb_client=search.gws-prod.gps&w=408&h=240&yaw=295.08066&pitch=0&thumbfov=100"
+    },
+    {
+      "name": "Women's Care of Beverly Hills",
+      "address": "8920 Wilshire Blvd #511, Beverly Hills, CA 90211",
+      "services": ["Obstetrics", "Gynecological health", "Menopause care", "IUD placement", "STI testing", "Ultrasound", "PCOS", "Cancer screening"],
+      "insurances": ["Aetna", "Anthem Blue Cross", "Blue Shield of California", "Anthem", "Call for more information"],
+      "image-address": "https://b3250884.smushcdn.com/3250884/wp-content/uploads/2016/12/BeverlyHillsMedicalCenter_Exterior-01.jpg?lossy=2&strip=1&webp=1"
+    },
+    {
+      "name": "Rodeo Drive Women's Health Center",
+      "address": "9720 Wilshire Blvd Ste LL, Beverly Hills, CA 90212",
+      "services": ["Gynecological health", "Obstetrics", "High-risk pregnancy care", "Menopausal health"],
+      "insurances": ["Aetna", "Anthem Blue Cross", "Blue Shield", "Cigna", "Coventry", "ILWU", "Medicare", "Meritain Health", "MultiPlan", "SAG-AFTRA", "United Medical Resources"],
+      "image-address": "https://sa1s3optim.patientpop.com/assets/images/provider/photos/2768540.jpg"
+    },
+    {
+      "name": "Via Care Community Health Center",
+      "address": "284 S Atlantic Blvd, Los Angeles, CA 90022",
+      "services": ["Women's health", "Family planning", "Primary care"],
+      "insurances": ["Medi-Cal", "Medicare", "Covered CA", "Family PACT", "Private insurance", "Sliding fee"],
+      "image-address": "https://s3-media0.fl.yelpcdn.com/bphoto/0_18wXtqVuRiu3_FRgIOPw/348s.jpg"
+    },
+    {
+      "name": "UMMA Community Clinic",
+      "address": "711 W Florence Ave, Los Angeles, CA 90044",
+      "services": ["Primary care", "Dental", "Behavioral health", "Women's health", "HIV care", "Social services"],
+      "insurances": ["Sliding scale, Medi-Cal, Private insurance"],
+      "image-address": "https://s3-media0.fl.yelpcdn.com/bphoto/B9cOjl-V-VX8hr-P0dRELQ/l.jpg"
+    },
+    {
+      "name": "Planned Parenthood - Hollywood",
+      "address": "1014 1/2 N Vermont Ave, Los Angeles, CA 90029",
+      "services": ["Birth control", "Contraception", "STI testing", "Prenatal care", "Abortion services", "LGBTQ+ Affirming Care"],
+      "insurances": ["Medi-Cal", "Private insurance", "Sliding scale"],
+      "image-address": "https://abortiondocs.org/wp-content/uploads/2019/09/Hollywood-Planned-Parenthood.jpg"
+    },
+    {
+      "name": "APLA Health",
+      "address": "1127 Wilshire Blvd UNIT 1504, Los Angeles, CA 90017",
+      "services": ["Primary care", "Dental", "Behavioral health", "HIV care"],
+      "insurances": ["Sliding scale", "Medi-Cal", "L.A. Care", "Health Net", "Molina", "Blue Shield Promise", "Anthem", "Beacon", "MHN", "L.A. Care", "Health Net", "Molina", "Blue Cross", "Blue Shield", "Cigna", "Anthem Blue Cross", "United Healthcare", "Aetna", "My Health LA", "Private insurance", "Brand New Day", "United Healthcare (AARP)", "SCAN", "Humana Medicare"],
+      "image-address": "https://aplahealth.org/wp-content/uploads/2022/12/Downtown-Dental-1_1.jpg"
+    },
+    {
+      "name": "Community Resource Centers",
+      "address": "4801 Whittier Blvd, East Los Angeles, CA 90022",
+      "services": ["Member support", "Health education", "Telehealth access"],
+      "insurances": ["L.A. Care Health Plan members (Medi-Cal HMO)"],
+      "image-address": "https://images1.loopnet.com/i2/WaRaaN8s3gjJp4pv2K41t36TXTwyq6uWHWGjTxQ0jXU/112/image.jpg"
+    },
+    {
+        "name": "Eisner Health - Downtown LA Women's Health Center",
+        "address": "1530 S Olive St, Los Angeles, CA 90015",
+        "services": [
+          "Prenatal care",
+          "Family Planning",
+          "Obstetrics",
+          "Gynecological health",
+          "Cancer Screening",
+          "STI care",
+          "STI testing",
+          "Pediatrics",
+          "Mental health"
+        ],
+        "insurances": [
+          "Anthem Blue Cross PPO/Covered CA", "Blue Shield of California PPO", "Cigna PPO", "Community Family Care", "Family PACT Program", "Health Care LA", "Medi-Cal Access Program (MCAP)", "Medi-Cal/CHDP Gateway Program", "My Health LA (MHLA)", "Preferred IPA", "Regal Medical Group/Lakeside", "United Health Plan PPO", "Sliding scale"
+        ],
+        "image-address": "https://s3-media0.fl.yelpcdn.com/bphoto/7KPDkYnICm2XmrFt5G43Aw/348s.jpg"
+    },
+    {
+        "name": "South Bay Family Health Care - Women's Health Services",
+        "address": "2114 Artesia Blvd, Redondo Beach, CA 90278",
+        "services": [
+          "Gynecological Exams",
+          "Prenatal care",
+          "Postpartum care",
+          "Birth Control",
+          "Cancer Screening",
+          "STI testing",
+          "Behavioral Health",
+          "Health Education"
+        ],
+        "insurances": [
+          "Medi-Cal",
+          "LA Care",
+          "Health Net",
+          "Blue Shield Promise",
+          "Anthem Blue Cross",
+          "Cigna",
+          "Aetna",
+          "United Healthcare",
+          "My Health LA"
+        ],
+        "image-address": "https://s3-media0.fl.yelpcdn.com/bphoto/rRKAqJV1v-pieQ-wYBKa8w/348s.jpg"
+    },
+    {
+        "name": "T.H.E. (To Help Everyone) Health and Wellness Centers - Women's Health Services",
+        "address": "3834 S Western Ave, Los Angeles, CA 90062",
+        "services_offered": [
+          "Prenatal care",
+          "Postnatal care",
+          "Gynecologial services",
+          "Family Planning",
+          "Cancer Screening",
+          "STI Testing",
+          "STI treatment",
+          "Birth Control",
+          "Primary Care",
+          "Mental health",
+          "LGBTQ+ Affirming Care"
+        ],
+        "insurances_accepted": [
+          "Medi-Cal",
+          "Medicare",
+          "LA Care",
+          "Health Net",
+          "Anthem Blue Cross",
+          "Blue Shield of California",
+          "Cigna",
+          "Aetna",
+          "United Healthcare",
+          "Sliding scale"
+        ],
+        "image-address": "https://www.spa6homeless.org/images/2017/3834_s_western_THE_clinic.jpg"
+      }      
+  ]
+  

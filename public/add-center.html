@@ -1,0 +1,68 @@
+<!--
+    Name: Ashlyn Roice 
+    CS 132 Spring 2025
+    Date: June 13, 2025
+    This is the add-center.html page for my web project Ada. This page offers a way for (only
+    admins) to add centers to be displayed.
+-->
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link defer href="styles.css" rel="stylesheet">
+    <link defer href="add-user.css" rel="stylesheet">
+    <script defer src="all.js"></script>    
+    <script defer src="utils.js"></script>
+    <script defer src="add-user.js"></script>
+    <!-- Limelight Static Font -->
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Limelight&display=swap" rel="stylesheet">
+    <!-- Inter Font -->
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Inter:ital,opsz,wght@0,14..32,100..900;1,14..32,100..900&display=swap" rel="stylesheet">
+    <title>Ada: Women's and Gender Affirming Healthcare Resource Locator </title>
+</head>
+<body>
+    <header>
+        <nav>
+            <h1> ada. </h1>
+            <ul>
+                <li><a href="index.html"> HOME </a></a></li>
+                <li><a href =product.html> LOCATION FINDER </a></li>
+                <li><a href=contact.html>CONTACT</a></li>
+                <li><a href=login.html>LOGIN</a></li>
+                <li class="hidden"><a href="logout.html">LOGOUT</a></li>
+                <li class="hidden"><a href=favorites.html>FAVORITES</a></li>
+                <li class="hidden"><a href=add-center.html>ADD USER</a></li>
+            </ul>
+        </nav>
+    </header>
+    <main>
+        <h1 class="form-header"> Submit a User </h1>
+        <p id="err-msg"></p>
+        <!--Admin Center Add Privilege-->
+        <form id="add-form">
+            <div class="form-unit">
+                <label>Name: <input type="text" name="user-signup"/></label>
+                <br>
+            </div>
+            <div class="form-unit">
+                <label>Password: <input type="text" name="password-signup"></label>
+            </div>
+            <div class="form-unit">
+                <label>Email: <input type="email" name="email-signup"/></label>
+                <br>
+            </div>
+            <button class="submit-center">Submit</button>
+        </form>
+    </main>
+    <footer>
+        <p> CONTACT: aroice@caltech.edu </p>
+    </footer>
+</body>
+</html>

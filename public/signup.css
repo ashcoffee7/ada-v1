@@ -1,0 +1,54 @@
+/**
+Name: Ashlyn Roice
+CS132 Spring 2025
+Date: June 13, 2025
+This is the signup.css page for my web project Ada. It styles the form allowing users to sign up 
+for an account with Ada.
+*/
+
+#signin-form {
+    background: white;
+    border-radius: 15px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    margin-bottom: 35px;
+
+}
+
+.form-unit {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    width: 75%;
+    border-radius: 20px;
+    font-family: 'Inter', 'san serif';
+    padding: 20px 40px;
+}
+
+.form-header {
+    font-weight: bold;
+    color: darkslategrey;
+    margin-top: 20px;
+    text-align: center;
+}
+
+.form-unit input[type="text"] {
+    padding: 8px 12px;
+    border-radius: 8px;
+    border: 1px solid black;
+    width: 1000px;
+    max-height: 20px;
+}
+
+.submit-signin {
+    padding: 20px 40px;
+    color: white;
+    background-color: darkblue;
+    margin-bottom: 20px;
+    border-radius: 10px;
+    border: none;
+}
+

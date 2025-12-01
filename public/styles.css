@@ -1,0 +1,104 @@
+ /*
+    Name: Ashlyn Roice
+    CS 132 Spring 2025
+    Date: May 18th, 2025
+    This is the styles.css page for my website for automatically locating women's healthcare and
+    gender-affirming care locations. The design of this website is aimed to be sleek and modern,
+    with slight artistic whimsy added with pixellated drawings and bright colors.
+*/
+.hidden {
+    display: none;
+}
+
+html, body {
+    margin: 0;
+    padding: 0; /* */
+    height: 100%;
+    width: 100%;
+}
+  
+body {
+    display: flex;
+    flex-direction: column;
+    background-image: url("imgs/relaxed-mood-color-gradient-gyxdnf89isfnnjhn.gif");
+    background-repeat: no-repeat; /* */
+    background-attachment: fixed; /* */
+    background-size: 100% 100%;
+    min-height: 100vh;
+}
+
+main {
+    flex-grow: 1;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+}
+
+nav {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 20px 10px;
+    background-color: black;
+    position: sticky;
+    top: 0;
+}
+
+nav ul {
+    display: flex;
+    gap: 30px;
+    list-style: none;
+    margin: 0px;
+    padding: 0px;
+    flex-wrap: wrap;
+}
+
+nav li a, #login a {
+    color: skyblue;
+    text-decoration: none;
+    font-weight: bold;
+    font-size: 1.75em;
+    font-family: 'Inter', 'sans-serif';
+}
+
+header h1 {
+    font-family: 'Limelight Static', serif;
+    font-size: 4.5em;
+    margin: 0px;
+    color: lavender;
+}
+
+header h1 a {
+    color: darkblue;
+    text-decoration: none;
+    list-style: none;
+}
+
+#login:hover, #nav-bar a:hover {
+    background-color: rgb(68, 68, 68);
+    padding: 2px 10px;
+    border-radius: 8px;
+}
+
+footer {
+    background-color: rgb(0, 0, 87);
+    padding: 20px;
+    text-align: center;
+    font-weight: 200;
+    flex-shrink: 0;
+}
+
+footer p{
+    text-align: center;
+    font-family: 'Inter', 'sans serif';
+    font-weight: 200px;
+    color: white;
+
+}
+
+p {
+    font-family: 'Inter', 'sans-serif';
+    text-align: center;
+    font-size: 1.5em;
+}
